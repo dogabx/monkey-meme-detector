@@ -1,4 +1,29 @@
-# Tongue Detection Meme Display
+# 🐒 Monkey Meme Detector
+
+An interactive real-time tongue detection meme project built with MediaPipe and OpenCV.
+
+## 🚀 Features
+- Real-time face tracking using MediaPipe
+- Tongue detection based on facial landmarks
+- Dynamic meme switching
+- Custom corner overlay (fes monkey edition)
+
+## 🛠️ Tech Stack
+- Python 3.11
+- OpenCV
+- MediaPipe
+- NumPy
+
+## ▶️ How to Run
+
+1. Install dependencies:
+   pip install -r requirements.txt
+
+2. Run the app:
+   python main.py
+
+Press 'q' to quit.
+
 
 A fun Python application using MediaPipe and OpenCV that detects when your tongue is out and displays different meme images in real-time.
 
