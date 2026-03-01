@@ -1,5 +1,9 @@
 # 🐒 Monkey Meme Detector
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![OpenCV](https://img.shields.io/badge/OpenCV-ComputerVision-green)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-FaceMesh-orange)
+
 An interactive real-time tongue detection meme project built with MediaPipe and OpenCV.
 
 ## 🚀 Features
