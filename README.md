@@ -291,3 +291,12 @@ Built with:
 
 MIT License - Feel free to use and modify as needed. See LICENSE file for details.
 
+## 📁 Project Structure
+
+main.py — Main application logic  
+requirements.txt — Project dependencies  
+apple.png — Default meme image  
+appletongue.png — Tongue detected meme  
+fes.png — Corner overlay image  
+
+
